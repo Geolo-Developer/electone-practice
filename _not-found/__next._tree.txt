@@ -1,4 +1,4 @@
-:HL["/electone-practice/_next/static/css/6a37f15cb02ce947.css","style"]
+:HL["/electone-practice/_next/static/css/04e3c0bed1f78daa.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"JF-ji8L2dzjzFQwPTYjUj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"w3duIGphUP7svSizJiQG-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
